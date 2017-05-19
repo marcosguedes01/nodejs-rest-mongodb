@@ -1,0 +1,14 @@
+{
+  "name": "rest-node-js-mongo-db",
+  "version": "0.0.0",
+  "description": "RestNodeJsMongoDB",
+  "main": "server.js",
+  "author": {
+    "name": "marcos.guedes"
+  },
+  "dependencies": {
+    "express": "~4.15.3",
+    "mongoose": "~4.10.0",
+    "body-parser": "~1.17.2"
+  }
+}
